@@ -3,7 +3,9 @@ __pycache__/
 *.py[cod]
 
 # distribution / packaging
+build/
 dist/
+google_deputy_api_python_client.egg-info/
 
 # environments
 .env
