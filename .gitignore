@@ -1,0 +1,17 @@
+# byte compiled
+__pycache__/
+*.py[cod]
+
+# distribution / packaging
+dist/
+
+# environments
+.env
+.venv
+env/
+venv/
+env.bak/
+venv.bak/
+
+# pycharm configuration
+.idea
